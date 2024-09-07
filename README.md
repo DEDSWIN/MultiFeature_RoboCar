@@ -17,6 +17,11 @@ This project showcases a Bluetooth-controlled Robo-Car model built using Arduino
 ## Demonstration
 [![Watch the video](https://drive.google.com/uc?export=view&id=1b0sJYtEpT9KYuQgGkKc3QeBFpt2HxW8c)](https://drive.google.com/file/d/1SEgj6lMiopXzHhbrF1fHBNEulSB35EfG/view?usp=sharing)
 
+<img src="https://drive.google.com/uc?export=view&id=1b0sJYtEpT9KYuQgGkKc3QeBFpt2HxW8c" width="400px" />
+
+Click [here](https://drive.google.com/file/d/1SEgj6lMiopXzHhbrF1fHBNEulSB35EfG/view?usp=sharing) to watch the full video.
+
+
 ## Components Used
 - Arduino UNO
 - HC-05 Bluetooth Module
