@@ -15,7 +15,7 @@ This project showcases a Bluetooth-controlled Robo-Car model built using Arduino
 - **`controller.aia`**: Android app controller file built using MIT App Inventor, for controlling the Robo-Car via Bluetooth.
 
 ## Demonstration
-[![Watch the video](https://drive.google.com/uc?export=view&id=1ezU4QvT5Lc15uDKhd4Crv6d6d_9uq7k3)](https://cciitpatna-my.sharepoint.com/:v:/g/personal/2201cs92_harshvardhan_iitp_ac_in/EXDtFqT_glxHuRX2Dwxa0y8B--jgEfnO_B976JUtaVy1DQ?e=XVXOUN)
+[![Watch the video](https://drive.google.com/uc?export=view&id=1b0sJYtEpT9KYuQgGkKc3QeBFpt2HxW8c)](https://drive.google.com/file/d/1SEgj6lMiopXzHhbrF1fHBNEulSB35EfG/view?usp=sharing)
 
 ## Components Used
 - Arduino UNO
